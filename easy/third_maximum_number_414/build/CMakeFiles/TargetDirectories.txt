@@ -1,0 +1,3 @@
+/home/aboka/Code/leetCode/easy/third_maximum_number_414/build/CMakeFiles/third_max.dir
+/home/aboka/Code/leetCode/easy/third_maximum_number_414/build/CMakeFiles/edit_cache.dir
+/home/aboka/Code/leetCode/easy/third_maximum_number_414/build/CMakeFiles/rebuild_cache.dir
