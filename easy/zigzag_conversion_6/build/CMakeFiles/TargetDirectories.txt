@@ -1,0 +1,3 @@
+/home/aboka/Code/leetCode/easy/zigzag_conversion_6/build/CMakeFiles/zigzag.dir
+/home/aboka/Code/leetCode/easy/zigzag_conversion_6/build/CMakeFiles/edit_cache.dir
+/home/aboka/Code/leetCode/easy/zigzag_conversion_6/build/CMakeFiles/rebuild_cache.dir
